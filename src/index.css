@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Playpen Sans', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(25, 19, 144, 0.718);
+  /* background-image: url('./Components/iit-jodhpur.jpg');
+  background-repeat: no-repeat; */
+  
+}
+
+code {
+  font-family: 'Playpen Sans', cursive;
+}
